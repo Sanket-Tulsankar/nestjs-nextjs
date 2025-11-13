@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# nextjs build artifacts
+client-app/.next/
+client-app/build/
+
+# Backend build artifacts
+order-service/dist/
+product-service/dist/
+
+
+# Environment files
+.env

@@ -7,10 +7,14 @@ npm install
 npm run dev
 
 ## 3. Go to product-service
+Create product_db database
+Configure database (With username, password)
 npm install
 nest start run
 
 ## 4. Go to order-service
+Create order_db database
+Configure database (With username, password)
 npm install
 nest start run
 
